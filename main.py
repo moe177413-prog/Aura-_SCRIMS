@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 
 # Token with fallback included directly
-BOT_TOKEN = os.getenv("BOT_TOKEN", "MTU2NTk5MDg4NTI3ODM1OTYzMg.GWmdvZ.paFwz74LYIeUyS3n1CI_ZkEIGmlKF26hgpGPJY")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "MTU2NTk5MDg4NTI3ODM1OTYzMg.GKxQ5X.oUO6flo4Gx-j3Z9DWjnwtU5ijF5Tcj7DNe64Y0")
 MAX_SLOTS = 20
 ROLE_NAME = "Confirmed Team"  # Role assigned to confirmed slot managers
 
